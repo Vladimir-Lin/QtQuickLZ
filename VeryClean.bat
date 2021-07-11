@@ -1,4 +1,4 @@
-set MODNAME=QtUUID
+set MODNAME=QtQuickLZ
 nmake clean
 del /s /q include\%MODNAME%\%MODNAME%Depends
 del /s /q include\%MODNAME%\%MODNAME%Version
